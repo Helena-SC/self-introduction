@@ -2,3 +2,4 @@ theme: minima
 title: Self-introduction
 author: Helena-SC
 description: this is a testing description file
+theme: jekyll-theme-minimal
